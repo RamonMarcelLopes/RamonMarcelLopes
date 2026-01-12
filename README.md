@@ -1,5 +1,5 @@
 ### Hello! My name is Ramon Lopes Santana 
-- 🎓 Graduated in full stack web development by BlueEdTech
+- 🎓 Currently studying Systems Analysis and Development at Uninter
 - ✉  ramonlopesdev@gmail.com
 
 
