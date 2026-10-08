@@ -5,9 +5,7 @@
 - <img src="https://api.iconify.design/lucide/wrench.svg?color=%2339d353" width="18" align="absmiddle"/> I build backend services and APIs, and I like turning ideas into real tools
 - <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2339d353" width="18" align="absmiddle"/> On the side, I make desktop apps like a media downloader and a P2P screen-sharing tool
 - <img src="https://api.iconify.design/lucide/mail.svg?color=%2339d353" width="18" align="absmiddle"/> Reach me at **ramonlopesdev@gmail.com**
-
-
-</br>
+---
 <h3 align="left">Languages and Tools:</h3>
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
@@ -38,6 +36,8 @@
   <a href="https://pnpm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" width="40"/></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40"/></a>
 </div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamonMarcelLopes/RamonMarcelLopes/output/pacman-contribution-graph-dark.svg">
