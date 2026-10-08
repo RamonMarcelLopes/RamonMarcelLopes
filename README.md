@@ -1,10 +1,10 @@
-<h2 align="left">Hello! I'm Ramon Lopes 👋</h2>
+<h2 align="left">Hello! I'm Ramon Lopes <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2339d353" width="24" align="center"/></h2>
 <p align="left"><i>Turning ideas into code, one commit at a time.</i></p>
 
-- 🎓 Studying Systems Analysis and Development at Uninter
-- 🛠️ I build backend services and APIs, and I like turning ideas into real tools
-- 🎮 On the side, I make desktop apps like a media downloader and a P2P screen-sharing tool
-- 📫 Reach me at **ramonlopesdev@gmail.com**
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2339d353" width="18"/> Studying Systems Analysis and Development at Uninter
+- <img src="https://api.iconify.design/lucide/wrench.svg?color=%2339d353" width="18"/> I build backend services and APIs, and I like turning ideas into real tools
+- <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2339d353" width="18"/> On the side, I make desktop apps like a media downloader and a P2P screen-sharing tool
+- <img src="https://api.iconify.design/lucide/mail.svg?color=%2339d353" width="18"/> Reach me at **ramonlopesdev@gmail.com**
 
 
 </br>
