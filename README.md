@@ -23,6 +23,16 @@
   <a href="https://styled-components.com/docs/advanced" target="_blank"><img src="https://www.styled-components.com/atom.png" width="40"/></a>
   <a href="https://www.prisma.io" target="_blank"><img src="https://jacaimages.vercel.app/imgs/logos/prisma.svg" width="40"/></a>
   <a href="https://discord.js.org/#/" target="_blank"><img src="https://i.imgur.com/2wfkZN0.png" width="40"/></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/></a>
+  <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a>
+  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></a>
+  <a href="https://www.electronjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" width="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/></a>
+  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40"/></a>
+  <a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/></a>
+  <a href="https://jestjs.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" width="40"/></a>
+  <a href="https://pnpm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" width="40"/></a>
+  <a href="https://www.cloudflare.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40"/></a>
 </div>
  
 <div> 
