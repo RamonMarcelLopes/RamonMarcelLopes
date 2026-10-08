@@ -1,5 +1,5 @@
-<h1 align="center">Hello! I'm Ramon Lopes 👋</h1>
-<p align="center"><i>Turning ideas into code, one commit at a time.</i></p>
+<h2 align="left">Hello! I'm Ramon Lopes 👋</h2>
+<p align="left"><i>Turning ideas into code, one commit at a time.</i></p>
 
 - 🎓 Studying Systems Analysis and Development at Uninter
 - 🛠️ I build backend services and APIs, and I like turning ideas into real tools
