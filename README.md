@@ -1,6 +1,10 @@
-### Hello! My name is Ramon Lopes Santana 
-- 🎓 Currently studying Systems Analysis and Development at Uninter
-- ✉  ramonlopesdev@gmail.com
+<h1 align="center">Hello! I'm Ramon Lopes 👋</h1>
+<p align="center"><i>Turning ideas into code, one commit at a time.</i></p>
+
+- 🎓 Studying Systems Analysis and Development at Uninter
+- 🛠️ I build backend services and APIs, and I like turning ideas into real tools
+- 🎮 On the side, I make desktop apps like a media downloader and a P2P screen-sharing tool
+- 📫 Reach me at **ramonlopesdev@gmail.com**
 
 
 </br>
