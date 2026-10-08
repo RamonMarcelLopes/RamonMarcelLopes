@@ -1,10 +1,10 @@
-<h2 align="left">Hello! I'm Ramon Lopes <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2339d353" width="24" align="center"/></h2>
+<h2 align="left">Hello! I'm Ramon Lopes <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2339d353" width="24" align="absmiddle"/></h2>
 <p align="left"><i>Turning ideas into code, one commit at a time.</i></p>
 
-- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2339d353" width="18"/> Studying Systems Analysis and Development at Uninter
-- <img src="https://api.iconify.design/lucide/wrench.svg?color=%2339d353" width="18"/> I build backend services and APIs, and I like turning ideas into real tools
-- <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2339d353" width="18"/> On the side, I make desktop apps like a media downloader and a P2P screen-sharing tool
-- <img src="https://api.iconify.design/lucide/mail.svg?color=%2339d353" width="18"/> Reach me at **ramonlopesdev@gmail.com**
+- <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2339d353" width="18" align="absmiddle"/> Studying Systems Analysis and Development at Uninter
+- <img src="https://api.iconify.design/lucide/wrench.svg?color=%2339d353" width="18" align="absmiddle"/> I build backend services and APIs, and I like turning ideas into real tools
+- <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%2339d353" width="18" align="absmiddle"/> On the side, I make desktop apps like a media downloader and a P2P screen-sharing tool
+- <img src="https://api.iconify.design/lucide/mail.svg?color=%2339d353" width="18" align="absmiddle"/> Reach me at **ramonlopesdev@gmail.com**
 
 
 </br>
@@ -38,15 +38,6 @@
   <a href="https://pnpm.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pnpm/pnpm-original.svg" width="40"/></a>
   <a href="https://www.cloudflare.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" width="40"/></a>
 </div>
- 
-<div> 
- 
-  <a href="https://www.instagram.com/ramonlopes_jc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ramon-lopes-santana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamonMarcelLopes/RamonMarcelLopes/output/pacman-contribution-graph-dark.svg">
@@ -54,7 +45,10 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RamonMarcelLopes/RamonMarcelLopes/output/pacman-contribution-graph.svg">
 </picture>
 
-  
-  
+<div>
 
+  <a href="https://www.instagram.com/ramonlopes_jc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ramon-lopes-santana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+</div>
 
